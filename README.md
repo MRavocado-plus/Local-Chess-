@@ -1,5 +1,4 @@
-# Local-Chess-
-# Local-Chess-web-based-offline
+
 # Checkmate
 
 Checkmate is a browser based chess game you can play it with friends, on the same screen!
