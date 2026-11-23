@@ -8,7 +8,7 @@ built with Html, CSS and yeah javascript :)
 
 You can play the game online here
 
-[Play Checkmate]()
+[Play Checkmate](https://mravocado-plus.github.io/Local-Chess-/)
 
 and also there is a bunch of chess boundaries set! 
 
