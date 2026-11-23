@@ -363,3 +363,4 @@ themeSelect.addEventListener('change', function () {
   changeTheme(themeSelect.value);
 });
 resetGame();
+
