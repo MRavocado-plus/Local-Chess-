@@ -187,3 +187,4 @@ h1 { margin-bottom: 8px; font-family: Georgia, "Times New Roman", serif; font-si
   .side-panel { grid-template-columns: 1fr; }
   .moves-card { grid-column: auto; } 
 } 
+
