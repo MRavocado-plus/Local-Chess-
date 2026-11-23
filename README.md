@@ -4,7 +4,7 @@
 Checkmate is a browser based chess game you can play it with friends, on the same screen!
 built with Html, CSS and yeah javascript :)
 
-## Play the game
+## Play the game !!
 
 You can play the game online here
 
